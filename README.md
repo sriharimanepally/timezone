@@ -1,10 +1,10 @@
 # timezone
 Timezone Drupal Module
 
-**Module Name:** Timezone Config
-**Module machine name:** timezone
-**Module Configuration Menu:** Home >> Administration >> Configuration >> System >> Timezone configuration
-**Module Configuration Path:** /admin/config/timezone/settings
+**Module Name:** Timezone Config\
+**Module machine name:** timezone\
+**Module Configuration Menu:** Home >> Administration >> Configuration >> System >> Timezone configuration\
+**Module Configuration Path:** /admin/config/timezone/settings\
 
 Steps to install module and configure:
 Step 1: Install module
