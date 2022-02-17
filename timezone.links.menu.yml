@@ -1,0 +1,6 @@
+timezone.settings:
+  title: 'Timezone configuration'
+  route_name: timezone.settings
+  description: 'Timezone Config admin'
+  parent: system.admin_config_system
+  weight: 99

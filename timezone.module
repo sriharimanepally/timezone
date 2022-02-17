@@ -1,0 +1,23 @@
+<?php
+
+/**
+ * @file
+ * This file is used to write hooks that used in the module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function timezone_theme() {
+
+  return [
+    'timezone' => [
+      'render element' => 'children',
+      'template' => 'timezone',
+      'variables' => [
+        'data' => [],
+      ],
+    ],
+  ];
+
+}

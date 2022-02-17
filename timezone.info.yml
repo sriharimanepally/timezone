@@ -1,0 +1,7 @@
+name: 'Timezone Config'
+type: module
+description: 'Configure timezone using form.'
+package: Custom
+core_version_requirement: ^8 || ^9
+dependencies:
+  - drupal:block
